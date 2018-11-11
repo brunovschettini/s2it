@@ -12,7 +12,8 @@ public class Questao8 {
     
     public static void main(String... args) {
         
-        Integer A, B, C;
+        int A, B, C;
+        
         
     }
     
