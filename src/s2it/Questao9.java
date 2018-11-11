@@ -11,4 +11,8 @@ package s2it;
  */
 public class Questao9 {
 
+    public static void main(String... args) {
+        
+    }
+    
 } 
