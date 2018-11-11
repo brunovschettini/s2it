@@ -1,3 +1,5 @@
+package s2it;
+
 
 import java.util.Scanner;
 
